@@ -134,6 +134,10 @@ nav i:hover {
         display: none;
     }
 
+    .foot ul{
+        display: none;
+    }
+
     .links-container{
         display: none;
         flex-direction: column;
