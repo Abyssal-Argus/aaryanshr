@@ -988,6 +988,7 @@ nav i:hover {
 .foot {
   height: 20vh;
   color: white;
+  overflow: hidden;
 }
 
 /* Media Queries */
@@ -996,6 +997,10 @@ nav i:hover {
 
 @media (max-width: 767px) {
   .NAVS {
+    display: none;
+  }
+
+  .foot ul{
     display: none;
   }
 
