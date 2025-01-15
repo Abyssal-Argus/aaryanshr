@@ -124,6 +124,7 @@ nav i:hover {
 .foot {
     height: 20vh;
     color: white;
+    overflow: hidden;
 }
 
 /* Media Queries */
