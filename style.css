@@ -238,9 +238,10 @@ margin: 2rem 2rem 2rem 2rem;
 }
 
 footer{
-    margin-top: 70px;
     height: 150px;
     background-color: #333138;
+    position: relative;
+    top: 50px;
 }
 
 .foot{
